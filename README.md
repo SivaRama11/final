@@ -1,0 +1,1 @@
+With Linear Regression Method, we will use fish datasto identify the relationship between Weight with other numerical variables. We also try to see whether the weight of the fish can be predicted based on historical data.
